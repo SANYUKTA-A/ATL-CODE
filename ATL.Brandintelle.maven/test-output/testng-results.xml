@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ATL_Test" duration-ms="103581" started-at="2020-09-09T12:00:05 IST" finished-at="2020-09-09T12:01:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103581" started-at="2020-09-09T12:00:05 IST" finished-at="2020-09-09T12:01:49 IST">
+      <class name="ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode">
+        <test-method status="PASS" signature="launch()[pri:0, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="launch" is-config="true" duration-ms="21935" started-at="2020-09-09T12:00:05 IST" finished-at="2020-09-09T12:00:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="clickATL()[pri:2, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="clickATL" duration-ms="8334" started-at="2020-09-09T12:00:27 IST" finished-at="2020-09-09T12:00:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickATL -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="getResult" is-config="true" duration-ms="3062" started-at="2020-09-09T12:00:36 IST" finished-at="2020-09-09T12:00:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickATL status=SUCCESS method=ATL_MainCode.clickATL()[pri:2, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="createest()[pri:3, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="createest" duration-ms="16741" started-at="2020-09-09T12:00:39 IST" finished-at="2020-09-09T12:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="getResult" is-config="true" duration-ms="3007" started-at="2020-09-09T12:00:55 IST" finished-at="2020-09-09T12:00:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createest status=SUCCESS method=ATL_MainCode.createest()[pri:3, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="documentinfor()[pri:4, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="documentinfor" duration-ms="46204" started-at="2020-09-09T12:00:58 IST" finished-at="2020-09-09T12:01:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- documentinfor -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="getResult" is-config="true" duration-ms="3003" started-at="2020-09-09T12:01:45 IST" finished-at="2020-09-09T12:01:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=documentinfor status=SUCCESS method=ATL_MainCode.documentinfor()[pri:4, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode@7f13d6e]" name="closeapp" is-config="true" duration-ms="1184" started-at="2020-09-09T12:01:48 IST" finished-at="2020-09-09T12:01:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- ATL.Brandintelle.maven.ATL.Brandintelle.maven.ATL_MainCode -->
+    </test> <!-- Test -->
+  </suite> <!-- ATL_Test -->
+</testng-results>
